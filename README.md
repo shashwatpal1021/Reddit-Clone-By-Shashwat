@@ -1,2 +1,2 @@
-# Reddit-Clone-By-Divyash
-Reddit Clone By Divyash Goyani From Newton School
+# Reddit-Clone-By-Shashwat Pal
+
